@@ -1,2 +1,0 @@
-def printtt():
-    print("bookversal")
